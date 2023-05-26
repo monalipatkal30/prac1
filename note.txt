@@ -1,0 +1,18 @@
+SH secured shell
+lsb release -a version of ubuntu
+
+port no. for sh is 22
+reserved port no.  
+JPS - Java Process Status
+
+dataware stores historical data or older data and db stores current data or frequently
+
+oltp - online transaction processing , eg of db (phonepe)
+olap - online analytical processing , eg of datawarehouse
+
+
+hadoop
+
+name node - master level. where there is a free space
+secondary node - when name node is deactive secondart node is active
+
